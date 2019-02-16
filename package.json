@@ -1,0 +1,26 @@
+{
+  "name": "assignment_9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShelbyMarks/assignment_9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShelbyMarks/assignment_9/issues"
+  },
+  "homepage": "https://github.com/ShelbyMarks/assignment_9#readme"
+}
